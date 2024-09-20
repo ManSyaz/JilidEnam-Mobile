@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_view_menu"
+            android:title="View Menu" />
+        <item
+            android:id="@+id/nav_scan_qr"
+            android:title="Scan QR Code" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_show_map"
+            android:title="Show Map" />
+    </group>
+</menu>

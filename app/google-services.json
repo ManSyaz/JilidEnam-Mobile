@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387185516990",
+    "project_id": "jilidenam-d8aae",
+    "storage_bucket": "jilidenam-d8aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387185516990:android:f26f1e0213a7f3016bd9ef",
+        "android_client_info": {
+          "package_name": "com.example.jilidenam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBldr9CaRsOm3VuOzZiDjozGO8XJiobwvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
